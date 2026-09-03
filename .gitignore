@@ -1,0 +1,30 @@
+# Runtime datasets and reports
+.runs/
+data/
+out/
+tmp/
+profiling/
+
+# Signed-in browser state and credentials
+.automation/
+.pw-profile/
+.env
+.env.*
+!.env.example
+
+# Python/build state
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.coverage
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editors and OS
+.DS_Store
+.idea/
+.vscode/

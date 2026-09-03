@@ -1,0 +1,4 @@
+interface:
+  display_name: "Michelin Maps E2E"
+  short_description: "Fetch Michelin selections and save them to Google Maps"
+  default_prompt: "Fetch the requested Michelin scope, save every restaurant to a Google Maps list, review misses, and verify coverage."
